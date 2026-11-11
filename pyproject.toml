@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py2x"
+version = "0.1.0"
+description = "Convertisseur source-à-source : Python typé vers C++20 et Kotlin, sortie identique à Python"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+py2x = "py2x.__main__:main"
+
+[tool.setuptools]
+packages = ["py2x"]

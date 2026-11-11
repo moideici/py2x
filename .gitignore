@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build*/
+*.exe
+*.jar
+*.class
+.venv/
+.idea/
+.vscode/
