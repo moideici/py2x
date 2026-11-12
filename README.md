@@ -64,3 +64,7 @@ utilisateur/héritage multiple, pas de `re`/`json`/`datetime`/fichiers. Liste co
 
 Extrait le 2026-11-11 de `ia/transpiler` (dossier local `ia`). Les démonstrations qui utilisent py2x (TaskDesk, MindMap) et le socle C++
 `cpp_base` restent dans `ia`.
+
+## Licence
+
+Code publié sous [licence MIT](LICENSE). Historique des versions : [CHANGELOG.md](CHANGELOG.md).
